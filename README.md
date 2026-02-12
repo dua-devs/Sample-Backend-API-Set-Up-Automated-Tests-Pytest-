@@ -109,7 +109,3 @@ pytest
 ###👩‍💻 Author
 Dua Salim Al Aufi
 Backend Engineering – Sample API + Automated Testing
-
-
-  "seats": 2
-}
